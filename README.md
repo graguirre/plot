@@ -1,7 +1,15 @@
-plot
-====
+description
+===========
 
 plot SCF energy iterations from orca output file
+
+download
+========
+
+$ git clone https://github.com/graguirre/plot.git PlotOrca
+$ cd PlotOrca
+
+see examples
 
 examples
 ========
