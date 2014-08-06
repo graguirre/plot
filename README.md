@@ -7,6 +7,7 @@ download
 ========
 
 $ git clone https://github.com/graguirre/plot.git PlotOrca
+
 $ cd PlotOrca
 
 see examples
